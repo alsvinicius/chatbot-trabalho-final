@@ -26,6 +26,6 @@ Obtém as informações sobre a próxima aula.
 
 Obtém os trabalhos pendentes
 
-# Token
+## Token
 
 O token fica configurado na variável *TOKEN_BOT* na classe *MyBot.*

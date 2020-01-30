@@ -1,6 +1,6 @@
 # Trabalho Final - Chatbot
 
-Javadoc disponível na pasta /docs
+Javadoc disponível na pasta /docs. Também disponível na url https://alsvinicius.github.io/chatbot-trabalho-final/
 
 ## Funções
 

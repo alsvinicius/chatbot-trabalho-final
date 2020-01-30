@@ -1,5 +1,7 @@
 # Trabalho Final - Chatbot
 
+Javadoc disponível na pasta /docs
+
 ## Funções
 
 ### /alaska

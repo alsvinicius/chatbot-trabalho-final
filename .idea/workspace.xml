@@ -2,53 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="63318506-479a-4a50-b195-da31179385b4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_10_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_10_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_10_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_pengrad_java_telegram_bot_api_4_4_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_gson_gson_2_8_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_squareup_okhttp3_logging_interceptor_3_12_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_squareup_okhttp3_okhttp_3_12_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_squareup_okio_okio_1_15_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_11.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_9.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_text_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_10.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jsoup_jsoup_1_10_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/docs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trabalho-final-correcoes.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/multitaskill.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/aws.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/0/00c6aa09ae2ffb5df22d3c0e5531e23fd04eb43a" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/3/135afbf79ca38757704036ee8200cb8ad3e28d49" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/4/14a579e55edd4fae4dfb86fb825dbab5a4f8fdd2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/c/1ca78f2d31b36cd857e357c79ac675c051be508a" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/e/2e94b924542525c29b26f4000eb14523d000fb8d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/d/3dbc86307c124e2e866a51f421ae545b2af4e168" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/0/604898cc275d2b4a7bc73c558f6bd352afb5a806" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/8/686e36734bc23fe9a76a77fa0562a394bc96050e" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/d/8dad3aa9f3da2bf20b357ff10090c3dd2e09042d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/3/936d3d88ddef691963bea237ebe84d83dab12134" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/5/a5cc2925ca8258af241be7e5b0381edf30266302" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/c/cc6a4632fa42742c030daeaad926c9deb159080e" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/d/cd80871f27724080be248822daa52d74bda4a0a4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/bot/conversacao/MyBot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bot/conversacao/MyBot.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/bot/conversacao/TransportaMensagens.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bot/conversacao/TransportaMensagens.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/bot/crawler/AlaskaCrawler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bot/crawler/AlaskaCrawler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/bot/funcionalidades/ConverterCambio.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bot/funcionalidades/ConverterCambio.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -126,38 +81,38 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="223" y="68" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1582543449621" />
-    <state width="1493" height="261" key="GridCell.Tab.0.bottom" timestamp="1582543718746">
+    <state width="1493" height="261" key="GridCell.Tab.0.bottom" timestamp="1582544458976">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1582543718746" />
-    <state width="1493" height="261" key="GridCell.Tab.0.center" timestamp="1582543718746">
+    <state width="1493" height="261" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1582544458976" />
+    <state width="1493" height="261" key="GridCell.Tab.0.center" timestamp="1582544458975">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1582543718746" />
-    <state width="1493" height="261" key="GridCell.Tab.0.left" timestamp="1582543718746">
+    <state width="1493" height="261" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1582544458975" />
+    <state width="1493" height="261" key="GridCell.Tab.0.left" timestamp="1582544458975">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1582543718746" />
-    <state width="1493" height="261" key="GridCell.Tab.0.right" timestamp="1582543718746">
+    <state width="1493" height="261" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1582544458975" />
+    <state width="1493" height="261" key="GridCell.Tab.0.right" timestamp="1582544458975">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1582543718746" />
-    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1582543730343">
+    <state width="1493" height="261" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1582544458975" />
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1582544436134">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1582543730343" />
-    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1582543730343">
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1582544436134" />
+    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1582544436134">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1582543730343" />
-    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1582543730343">
+    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1582544436134" />
+    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1582544436134">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1582543730343" />
-    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1582543730343">
+    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1582544436134" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1582544436134">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1582543730343" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1582544436134" />
     <state x="249" y="0" key="SettingsEditor" timestamp="1582543335605">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -166,6 +121,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="462" y="144" width="611" height="536" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1582543487990" />
+    <state x="410" y="139" width="700" height="530" key="recent.locations.popup" timestamp="1582543925051">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="410" y="139" width="700" height="530" key="recent.locations.popup/0.0.1536.824@0.0.1536.824" timestamp="1582543925051" />
     <state x="425" y="187" width="672" height="677" key="run.anything.popup" timestamp="1582543313595">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -175,16 +134,22 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/bot/conversacao/MyBot.java</url>
-          <line>73</line>
-          <option name="timeStamp" value="6" />
+          <url>file://$PROJECT_DIR$/src/main/java/bot/funcionalidades/ConverterCambio.java</url>
+          <line>55</line>
+          <option name="timeStamp" value="11" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/bot/crawler/AlaskaCrawler.java</url>
-          <line>26</line>
-          <option name="timeStamp" value="7" />
+          <url>file://$PROJECT_DIR$/src/main/java/bot/funcionalidades/ConverterCambio.java</url>
+          <line>49</line>
+          <option name="timeStamp" value="14" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="EntityUtils.toString(entity)" language="JAVA" />
+        <watch expression="(HashMap&lt;String, Double&gt;)valorConversao.get(&quot;rates&quot;)" language="JAVA" custom="java.util.LinkedHashMap" />
+      </configuration>
+    </watches-manager>
   </component>
 </project>

@@ -45,6 +45,7 @@ public class MyBot {
      */
     public void runBot() {
         bot.setUpdatesListener(this::orquestraRespostas);
+        System.out.println("Bot pronto para receber mensagens.");
     }
 
     /**

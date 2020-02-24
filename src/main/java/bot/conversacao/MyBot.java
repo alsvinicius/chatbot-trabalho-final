@@ -13,7 +13,7 @@ import java.util.List;
  */
 public class MyBot {
 
-    private static final String TOKEN_BOT = "";
+    private static final String TOKEN_BOT = "1085329822:AAEtNPYEmJ92UYAUXc4ahOMcRswT1ShxWGA";
     private boolean possuiComandoAnterior = false;
     private String comandoAnterior = "";
 

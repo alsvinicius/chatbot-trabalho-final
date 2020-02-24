@@ -22,6 +22,7 @@ public class TransportaMensagens {
      * @return objeto com informação do envio
      */
     protected SendResponse enviarMensagem(long chatId, String mensagem) {
+        System.out.println(mensagem);
         return bot.execute(new SendMessage(chatId, mensagem));
     }
 

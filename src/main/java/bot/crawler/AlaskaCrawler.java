@@ -24,7 +24,7 @@ public class AlaskaCrawler {
      * @throws IOException exceção caso não seja possível se conectar ao site
      */
     public static String getLatestValue() throws IOException {
-        Element valueRow = bot.crawler.UrlCrawler.getElement(ALASKA_URL,"table#tablepress-1 .row-3");
+        Element valueRow = bot.crawler.UrlCrawler.getElement(ALASKA_URL,".wpb_wrapper table .row-3");
         return "A rentabilidade do dia "
                 + valueRow.select(".column-2").text()
                 + " foi "
